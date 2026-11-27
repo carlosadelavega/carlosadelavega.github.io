@@ -1,0 +1,10 @@
+title: Carlos De La Vega
+description: Notes on data, identity and applied AI.
+author: Carlos De La Vega
+url: "https://carlosadelavega.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
+permalink: /:title/
+github_username: carlosadelavega
+linkedin_username: carlosadelavega
